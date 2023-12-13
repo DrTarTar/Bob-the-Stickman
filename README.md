@@ -8,7 +8,7 @@ In contrast to Henry Stickmin, my game might has a few more cutscenes that tell 
 Here are the game instructions:
 Upon the first launch of the game, you will be prompted to create an account or log in. If you prefer not to do so, you can simply press "skip." You will then be asked to provide your location, but you can also skip this step by pressing "skip" (we would have used the location to set the language automatically). If you pressed "skip" or live in an officially multilingual country, you will now be prompted to select a language for the game (I will be programming the game in English and add other languages later, so some languages may not be available at the time you read this). Now you can start the game, read the credits, adjust your settings again, or select the level. When you start the game, you will first encounter a cutscene, after which you start your first mission. The idea of the game is to make small decisions along the way. The rest is pretty self-explanatory.
 
-I hope you like it and look forward to your feedback!
+I hope you like it and I am really looking forward to your feedback!
 
 
 [1], Henry Stickmin: https://store.steampowered.com/app/1089980/The_Henry_Stickmin_Collection/
