@@ -1,6 +1,6 @@
 # Bob-the-Stickman
 
-Hello, this is my first public repository on Github and also the first game I have ever published. The game is inspired by Henry Stickmin[1], a game that I really enjoy and highly recommend to anyone with a sense of humor. I wrote my game in Processing[2] and designed it using GIMP[3]. I will also make the game available for download on my website[4], along with some other games that I have partially developed simultaneously, but also before this one.
+Hello, this is my first public repository on Github and also the first game I have ever published. The game is inspired by Henry Stickmin[1], a game that I really enjoy and highly recommend to anyone with a sense of humor. I wrote my game mainly in Processing[2] and designed it using GIMP[3]. I will also make the game available for download on my website[4], along with some other games that I have partially developed simultaneously, but also before this one.
 
 
 In contrast to Henry Stickmin, my game might have a few more cutscenes that tell the storyline, but you can skip them at any time. My game will be more or less structured like Henry Stickmin, but probably in lower quality since I don't have a whole team with me, and I don't work on it full-time. However, I will do my best to make the game as good as possible.
