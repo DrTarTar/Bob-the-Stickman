@@ -17,4 +17,4 @@ I hope you like it and I am really looking forward to your feedback!
 
 [3], GIMP: https://www.gimp.org/
 
-[4], my website: not online yet 😅
+[4], my website: not very far yet but you can check it out at https://drtartar.github.io/myWebsite/
